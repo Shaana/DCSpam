@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: DCSpam
+## Notes: Deposit Coin trade spam addon
+## Author: Shaana
+## Version: 1.1
+
+
+config.lua
+DCSpam.lua
